@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+multiprocessing-logging
+opencv-python
+adafruit-blinka
+adafruit-circuitpython-dht
+adafruit-circuitpython-bmp280
+PyMLX90614
+tensorflow 
+gpiozero 
+
